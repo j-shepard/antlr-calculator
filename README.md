@@ -1,2 +1,1 @@
-antlr-calculator
-================
+Antlr4 Calculator Grammar
